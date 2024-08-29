@@ -1,0 +1,1 @@
+User data refers to any information that is collected, stored, and processed about individuals who interact with a system, application, or service. This data can include a wide range of information, depending on the context and purpose of the collection. Here are some common types of user data:
