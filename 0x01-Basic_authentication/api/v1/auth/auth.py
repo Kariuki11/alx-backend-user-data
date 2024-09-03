@@ -48,4 +48,3 @@ class Auth:
         """ Validates current user """
         return None
     
-    
